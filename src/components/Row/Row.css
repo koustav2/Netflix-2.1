@@ -21,6 +21,8 @@
     object-fit:contain;
     margin-right:10px;
     transition:transform 450ms;
+    border-radius: 20px;
+    cursor: pointer;
 }
 
 .row__poster:hover{
